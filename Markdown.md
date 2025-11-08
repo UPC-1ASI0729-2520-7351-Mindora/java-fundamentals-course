@@ -7,7 +7,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**� Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-courseteamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+**� Repositorio de Código Fuente**: [https://github.com/UPC-1ASI0729-2520-7351-Mindora/java-fundamentals-course.git](https://github.com/UPC-1ASI0729-2520-7351-Mindora/java-fundamentals-course.git)
 
 ## Secuencia de la Lección
 ### Lección 1: Introducción a la programación y Java: ¿Qué es y por qué usarlo? + Sintaxis básica | Curso Java #1

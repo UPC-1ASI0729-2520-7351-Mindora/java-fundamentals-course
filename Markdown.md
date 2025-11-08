@@ -40,12 +40,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Todas las actividades prácticas**:
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+| 1 | Introducción a la programación y Java: | [OnlineGDB](https://onlinegdb.com/rDxceizvu) |
+| 2 | Operadores y expresiones en Java | [OnlineGDB](https://onlinegdb.com/AcZoaeJdwM) |
+| 3 | Métodos y parámetros en Java | [OnlineGDB](https://onlinegdb.com/KIBYsPS2fo) |
+| 4 | Principios de POO en Java: | [OnlineGDB](https://onlinegdb.com/DtHLbPpRT) |
+| 5 | Proyecto final en Java: | [OnlineGDB](https://onlinegdb.com/bRPsR2MTl) |
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
 ---
@@ -54,8 +53,16 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de tu equipo]
-**Líder del equipo**: [Nombres y Apellidos]
-**Integrantes del equipo**: [Nombres y Apellidos]
-**Fecha de entrega**: [Fecha]
+NRC 7351
+**Nombre del equipo**: Mindora
+**Líder del equipo**: Manuel Fernando Joao Castro Picon
+
+| **Integrantes del equipo**         |
+| ---------------------------------- |
+| Manuel Fernando, Joao Castro Picón |  
+| Sebastián De Las Casas Latour      | 
+| Eduardo Fabián Chacaliaza Minaya   | 
+| Fabricio Fabián Quispe Barzola     | 
+| Juan Jose Meza Huanacune           | 
+
+**Fecha de entrega**: 08/11/2025

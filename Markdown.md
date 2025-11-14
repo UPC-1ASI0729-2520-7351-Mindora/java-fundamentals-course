@@ -28,12 +28,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ### Lección 4: Principios de POO en Java: encapsulación con getters/setters + arrays y cadenas | Curso Java #4
 - **Descripción**: Veremos los principios básicos de la POO: cómo proteger datos con encapsulación usando getters y setters, y cómo instanciar objetos de manera simple. Además, aprenderás a trabajar con arrays y cadenas para manejar colecciones de información integradas con tus clases. Un paso esencial para construir programas más seguros y organizados.
 - **Enlace**: [Ver la lección](https://youtu.be/Nrb1-tabiNM?si=NxVVHz7jWskqGcog)
-- **Práctica**: [Haz clic para practicar](https://www.onlinegdb.com) � **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/DtHLbPpRT) � **¡No necesitas registrarte!**
   
 ### Lección 5: Proyecto final en Java: registro de estudiantes + buenas prácticas y errores comunes | Curso Java #5
 - **Descripción**: Programa completo: un registro de estudiantes usando POO. Verás cómo todo lo aprendido se une en un solo proyecto. Además, repasaremos las mejores prácticas de programación y los errores más comunes que debes evitar como principiante. El cierre perfecto para tu curso de Java: un proyecto real y consejos prácticos.
 - **Enlace**: [Ver la lección](https://youtu.be/_DO5nPkMXag?si=a7jVgRAYU4qthDFL)
-- **Proyecto final**: [Crea tu aplicación ](https://www.onlinegdb.com) � **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación ](https://onlinegdb.com/bRPsR2MTl) � **¡Guarda y comparte!**
 
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)

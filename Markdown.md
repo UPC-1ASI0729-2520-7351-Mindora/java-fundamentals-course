@@ -41,7 +41,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   
 | Número de lección | Actividad | Empezar a programar |
 |-------------------|----------------------------------------------|---------------------------------|
-| 1 | Introducción a la programación y Java: | [OnlineGDB](https://onlinegdb.com/rDxceizvu) |
+| 1 | Introducción a la programación y Java: | [OnlineGDB](https://onlinegdb.com/24HWoX3lt) |
 | 2 | Operadores y expresiones en Java | [OnlineGDB](https://onlinegdb.com/AcZoaeJdwM) |
 | 3 | Métodos y parámetros en Java | [OnlineGDB](https://onlinegdb.com/KIBYsPS2fo) |
 | 4 | Principios de POO en Java: | [OnlineGDB](https://onlinegdb.com/DtHLbPpRT) |

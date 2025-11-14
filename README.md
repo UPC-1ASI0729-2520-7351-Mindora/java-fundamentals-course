@@ -1,4 +1,4 @@
-# 🧠 Curso de Fundamentos de Java 
+# Curso de Fundamentos de Java 
 
 Bienvenido al repositorio oficial del curso **Java Fundamentals**, creado para estudiantes que están comenzando su camino en la programación. Este curso está diseñado para funcionar 100% con **editores online**, sin necesidad de instalar nada en tu computadora.
 
@@ -12,7 +12,7 @@ Bienvenido al repositorio oficial del curso **Java Fundamentals**, creado para e
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 - `starter-files/`: Archivos base para comenzar cada práctica.
 - `completed-examples/`: Soluciones completas para revisar y comparar.
@@ -21,7 +21,7 @@ Bienvenido al repositorio oficial del curso **Java Fundamentals**, creado para e
 
 ---
 
-## 🧪 Cómo usar este curso
+## Cómo usar este curso
 
 1. Abre el archivo de práctica desde la carpeta `starter-files`.
 2. Copia el código en tu editor online favorito:
@@ -35,10 +35,10 @@ Bienvenido al repositorio oficial del curso **Java Fundamentals**, creado para e
 
 
 
-## 🤝 Trabajo en equipo
+## Trabajo en equipo
 
 Este curso fue desarrollado en equipo, con enfoque en accesibilidad, claridad y motivación para estudiantes sin experiencia previa. Cada miembro contribuyó en la elaboración de prácticas, guiones de video y revisión de contenido.
 
 ---
 
-¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo programación! 💻✨
+¡Esperamos que disfrutes el curso y te animes a seguir aprendiendo programación!

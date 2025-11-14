@@ -12,8 +12,8 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 ## Secuencia de la Lección
 ### Lección 1: Introducción a la programación y Java: ¿Qué es y por qué usarlo? + Sintaxis básica | Curso Java #1
 - **Descripción**: Veremos la sintaxis básica: variables, tipos de datos como int y String, y cómo se usan en tus primeros programas. Ideal para quienes nunca han programado antes.
-- **Enlace**: [Ver la lección](https://youtu.be/k7FEZyqdttQ?si=HTWyfREWUKutx6sL)
-- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://www.onlinegdb.com)
+- **Enlace**: [Ver la lección](https://youtu.be/JLxtYGFe3DI)
+- **Empieza a programar**: [OnlineGDB Lección 1](https://onlinegdb.com/24HWoX3lt)
   
 ### Lección 2: Operadores y expresiones en Java + estructuras de control (if-else, for, while) | Curso Java #2
 - **Descripción**: Aprenderás a tomar decisiones con if-else y a repetir acciones con bucles for y while. El paso clave para que tus programas empiecen a “pensar” y actuar dinámicamente.

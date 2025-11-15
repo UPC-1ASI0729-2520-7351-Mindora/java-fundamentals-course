@@ -17,13 +17,13 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   
 ### Lección 2: Operadores y expresiones en Java + estructuras de control (if-else, for, while) | Curso Java #2
 - **Descripción**: Aprenderás a tomar decisiones con if-else y a repetir acciones con bucles for y while. El paso clave para que tus programas empiecen a “pensar” y actuar dinámicamente.
-- **Enlace**: [Ver la lección](https://youtu.be/Vg4tiDe6oB4?si=hG0if5wmQEf_U_qf)
+- **Enlace**: [Ver la lección](https://youtu.be/7rXVGfCSzEU)
 - **Práctica**: [Clic para programar](https://onlinegdb.com/AcZoaeJdwM) � **¡No es necesario registrarse!**
 
 ### Lección 3: Métodos y parámetros en Java + entrada/salida con Scanner + POO básica | Curso Java #3
 - **Descripción**: Organizar tu código con métodos y parámetros, a interactuar con el usuario usando la clase Scanner, y a dar tus primeros pasos en la Programación Orientada a Objetos (POO). Crearemos clases, objetos, constructores y métodos simples para representar cosas del mundo real. Aquí tu código empieza a ser más ordenado y reutilizable.
-- **Enlace**: [Ver la lección](https://youtu.be/rU5jf_pjZlI?si=6b6FQHhNTyBG53yK)
-- **Práctica**: [Clic para programar](https://onlinegdb.com/KIBYsPS2fo) � **¡Inicio inmediato!**
+- **Enlace**: [Ver la lección](https://youtu.be/J3M-9nufNnw)
+- **Práctica**: [Clic para programar](https://onlinegdb.com/i0O_pwUBM) 
   
 ### Lección 4: Principios de POO en Java: encapsulación con getters/setters + arrays y cadenas | Curso Java #4
 - **Descripción**: Veremos los principios básicos de la POO: cómo proteger datos con encapsulación usando getters y setters, y cómo instanciar objetos de manera simple. Además, aprenderás a trabajar con arrays y cadenas para manejar colecciones de información integradas con tus clases. Un paso esencial para construir programas más seguros y organizados.
